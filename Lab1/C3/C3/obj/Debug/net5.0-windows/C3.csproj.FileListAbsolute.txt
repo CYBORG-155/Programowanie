@@ -1,0 +1,17 @@
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\bin\Debug\net5.0-windows\C3.exe
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\bin\Debug\net5.0-windows\C3.deps.json
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\bin\Debug\net5.0-windows\C3.runtimeconfig.json
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\bin\Debug\net5.0-windows\C3.runtimeconfig.dev.json
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\bin\Debug\net5.0-windows\C3.dll
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\bin\Debug\net5.0-windows\ref\C3.dll
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\bin\Debug\net5.0-windows\C3.pdb
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\obj\Debug\net5.0-windows\C3.csproj.GenerateResource.cache
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\obj\Debug\net5.0-windows\C3.GeneratedMSBuildEditorConfig.editorconfig
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\obj\Debug\net5.0-windows\C3.AssemblyInfoInputs.cache
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\obj\Debug\net5.0-windows\C3.AssemblyInfo.cs
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\obj\Debug\net5.0-windows\C3.csproj.CoreCompileInputs.cache
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\obj\Debug\net5.0-windows\C3.dll
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\obj\Debug\net5.0-windows\ref\C3.dll
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\obj\Debug\net5.0-windows\C3.pdb
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\obj\Debug\net5.0-windows\C3.genruntimeconfig.cache
+F:\!WSIZ\C# Programowanie\Lab1\ProgramVS\C3\C3\obj\Debug\net5.0-windows\C3.Form1.resources
